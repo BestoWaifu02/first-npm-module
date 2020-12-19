@@ -1,6 +1,6 @@
 {
   "name": "npm-script-pruebadevideodefazt",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "mi primer modulo ",
   "main": "src/index.js",
   "scripts": {
@@ -11,5 +11,14 @@
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BestoWaifu02/first-npm-module.git"
+  },
+  "bugs": {
+    "url": "https://github.com/BestoWaifu02/first-npm-module/issues"
+  },
+  "homepage": "https://github.com/BestoWaifu02/first-npm-module#readme"
 }
